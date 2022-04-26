@@ -2,7 +2,6 @@ from traceback import print_tb
 import os
 import numpy as np
 import tensorflow as tf
-from PIL import Image
 from flask import Flask, jsonify, request
 import pandas as pd
 import librosa
