@@ -3,9 +3,10 @@
 Steps to run file
 
 `In the command line`
+```sh
 $ pip install flask numpy pandas tensorflow librosa
 $ python app.py
-
+```
 ## Packages usage
 - Librosa: To load and extract features from audio file
 - flask: To create server in python, request and jsonification of data
